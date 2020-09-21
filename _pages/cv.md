@@ -11,30 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor of Environmental Science, Charles Sturt University, 2012
+* Master of GIS and Remote Sensing, Charles Sturt University, 2014
+* Ph.D in ecological modelling, Charles Sturt University, 2021 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019-: Sessional lecturer at Charles Sturt University
+  * SPA215 - Principles of GIS
+  * SPA308 - GIS Applications
+  * SPA555 - Spatial modelling
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017-2018: Senior Project Officer at Office of Environment & Heritage (NSW)
+  * Part of the transitional process of NCT to Biodiversity Conservation Trust
+  * Duties included: GIS analysis, cartography, data management
+
+* 2017-2018: GIS Analyst at Nature Conservation Trust of NSW
+  * Supported the private land conservation role of the NCT by providing GIS support to staff across NSW.
+  * Duties included: GIS analysis, cartography, data management, develop spatial workflows
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Spatial modelling & analysis
+* Programming
+  * Python
+  * R
+* GIS Technology
+  * ESRI
+  * Open source (QGIS, PostGIS, SpatiaLite)
+* Research
+* Cartography
 
 Publications
 ======
@@ -42,18 +48,10 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+ -->

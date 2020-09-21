@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Liam Grimmett"
   avatar           : "profile.png"
-  bio              : "PhD candidate & GIS guy"
+  bio              : "PhD candidate & GIS analyst"
   location         : "Australia"
   employer         :
   pubmed           : 
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/liam-grimmett-79a07a48/"
   orcid            : "https://orcid.org/0000-0002-2502-7387"
   pinterest        :
   soundcloud       :
@@ -181,7 +181,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  projects:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -230,7 +230,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: portfolio
+      type: projects
     values:
       layout: single
       author_profile: true
