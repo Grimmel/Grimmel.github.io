@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Liam, a PhD candidate at Charles Sturt University, Australia. I have a background in geographic information systems (GIS), working in the the environment sector as a GIS analyst for a number of years. While my research occupies most of my time at the moment, I have also operated as a GIS consultant. I decided to set up this site to share some of my work and experience. So feel free to get in touch if you have any questions!
+I'm Liam, a PhD candidate at Charles Sturt University, Australia. I have a background in geographic information systems (GIS), working in the the environment sector as a GIS analyst for a number of years. While my research occupies most of my time at the moment, I have also operated as a GIS consultant. I decided to set up this site to share some of my work and experience. So feel free to get in touch if you have any questions.
 
 *How does geography & process influence the patterns we observe?*
 ======
